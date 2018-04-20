@@ -19,7 +19,6 @@ export function resizeCanvas(canvas, callback) {
 
   canvas.width = canvas.offsetWidth;
   canvas.height = canvas.offsetHeight;
-
   callback && callback()
 }
 
