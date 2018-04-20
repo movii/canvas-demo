@@ -7,14 +7,10 @@ ___
 
 ## Demo #1 
 Live: [link](https://moxo.io/canvas-demos/index.html)
-#### Preview 
-`medias/demo1.gif` about 8 mb.
-![Demo #1 Screentshot](medias/demo1.gif)
+![Demo #1 Screentshot](medias/demo#1.gif)
 
 ___
 
 ## Demo #2
 Live: [link](https://moxo.io/canvas-demos/demo2.html)
-#### Preview 
-`medias/demo2.gif`, about 921 kb.
-![Demo #1 Screentshot](medias/demo2.gif)
+![Demo #1 Screentshot](medias/demo#2.gif)
