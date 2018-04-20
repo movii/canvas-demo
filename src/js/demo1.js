@@ -29,7 +29,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
   window.addEventListener('resize', () => {
     resizeCanvas($canvas);
-    return window;
   });
 
   resizeCanvas($canvas);
