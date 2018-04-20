@@ -7,6 +7,10 @@ module.exports = {
     demo1: [
       './src/js/demo1.js',
       './src/scss/demo1.scss'
+    ],
+    demo2: [
+      './src/js/demo2.js',
+      './src/scss/demo2.scss' 
     ]
   },
   output: {
