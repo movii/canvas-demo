@@ -49,6 +49,7 @@ document.addEventListener('DOMContentLoaded', () => {
   gui.add(settings, 'density', 1, 100);
   gui.add(settings, 'particleSize', 1, 50);
   gui.add(settings, 'gravity', -2, 2);
+  gui.add(settings, 'startingX', 0, $canvas.offsetWidth * 0.75);
   gui.add(settings, 'startingY', 0, $canvas.offsetHeight * 0.75);
   gui.add(settings, 'groundLevel', $canvas.offsetHeight * .1, $canvas.offsetHeight);
   gui.add(settings, 'leftWall', 0, $canvas.offsetWidth * .9);
